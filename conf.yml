@@ -1,0 +1,6 @@
+version: "2"
+services:
+  web:
+    nsqdtcpaddr: 10.58.122.238:4150
+    imgserveraddr: 10.58.122.238:4150
+   
